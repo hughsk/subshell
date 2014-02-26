@@ -1,0 +1,30 @@
+{
+  "name": "subshell",
+  "description": "Boot an interactive subshell from node. Useful for custom command-line environments.",
+  "version": "0.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "bin": {
+    "subshell": "./index.js"
+  },
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/subshell"
+  },
+  "bugs": {
+    "url": "https://github.com/hughsk/subshell/issues"
+  },
+  "homepage": "https://github.com/hughsk/subshell",
+  "keywords": [
+    "subshell",
+    "spawn",
+    "terminal",
+    "wrap",
+    "override",
+    "bash"
+  ]
+}
